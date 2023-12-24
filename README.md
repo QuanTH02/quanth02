@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=quanth02" alt="quanth02" /></a> </p>
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhbjAweW42Mm4yeHhmbmhxYm85MzU5emh6dDZmNG0yYTh3N3htYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhbjAweW42Mm4yeHhmbmhxYm85MzU5emh6dDZmNG0yYTh3N3htYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350">
 
 - 🔭 I’m currently working on **Hanoi University of Science and Technology**
 
