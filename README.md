@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">A passionate Fullstack developer from VietNam</h3>
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhbjAweW42Mm4yeHhmbmhxYm85MzU5emh6dDZmNG0yYTh3N3htYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanth02&label=Profile%20views&color=0e75b6&style=flat"
         alt="quanth02" /> </p>
@@ -20,6 +20,7 @@
 
 - ⚡ Fun fact **I am funny**
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhbjAweW42Mm4yeHhmbmhxYm85MzU5emh6dDZmNG0yYTh3N3htYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://fb.com/tran hong quan" target="blank"><img align="center"
